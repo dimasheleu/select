@@ -1,0 +1,36 @@
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: green;
+}
+
+h1 {
+  color: white;
+}
+
+#header {
+  color: blueviolet;
+}
+
+.a1 {
+  font-weight: bold;
+  color: rgb(74, 241, 182);
+}
+
+.a2 {
+  color: rgb(240, 86, 3);
+}
+
+h3 {
+  color: blue;
+}
+
+#age {
+  color: aqua;
+}
+
+.name {
+  color: brown;
+}
+
+
+/* думаю используется то какой последний селектор использовался у меня последний селектор это класс 
